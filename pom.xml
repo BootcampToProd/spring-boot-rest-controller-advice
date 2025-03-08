@@ -15,7 +15,7 @@
 
     <name>spring-boot-rest-controller-advice</name>
     <description>A simple Spring Boot app demonstrating how we can handle exception in case of Rest APIs using rest
-        controller advice
+        controller advice.
     </description>
 
     <properties>
